@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\New folder\Circle_and_Cylinder\bin\Debug\net7.0\Circle_and_Cylinder.exe
+C:\Users\ASUS\Desktop\New folder\Circle_and_Cylinder\bin\Debug\net7.0\Circle_and_Cylinder.deps.json
+C:\Users\ASUS\Desktop\New folder\Circle_and_Cylinder\bin\Debug\net7.0\Circle_and_Cylinder.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder\Circle_and_Cylinder\bin\Debug\net7.0\Circle_and_Cylinder.dll
+C:\Users\ASUS\Desktop\New folder\Circle_and_Cylinder\bin\Debug\net7.0\Circle_and_Cylinder.pdb
+C:\Users\ASUS\Desktop\New folder\Circle_and_Cylinder\obj\Debug\net7.0\Circle_and_Cylinder.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder\Circle_and_Cylinder\obj\Debug\net7.0\Circle_and_Cylinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder\Circle_and_Cylinder\obj\Debug\net7.0\Circle_and_Cylinder.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder\Circle_and_Cylinder\obj\Debug\net7.0\Circle_and_Cylinder.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder\Circle_and_Cylinder\obj\Debug\net7.0\Circle_and_Cylinder.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder\Circle_and_Cylinder\obj\Debug\net7.0\Circle_and_Cylinder.dll
+C:\Users\ASUS\Desktop\New folder\Circle_and_Cylinder\obj\Debug\net7.0\refint\Circle_and_Cylinder.dll
+C:\Users\ASUS\Desktop\New folder\Circle_and_Cylinder\obj\Debug\net7.0\Circle_and_Cylinder.pdb
+C:\Users\ASUS\Desktop\New folder\Circle_and_Cylinder\obj\Debug\net7.0\Circle_and_Cylinder.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\New folder\Circle_and_Cylinder\obj\Debug\net7.0\ref\Circle_and_Cylinder.dll
